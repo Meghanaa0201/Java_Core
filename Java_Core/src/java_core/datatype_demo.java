@@ -20,9 +20,9 @@ public class datatype_demo {
 				String fooditems[]= {"burger","fries","coke"};
 				
 				
-				//oder summary
+				//order summary
 				
-				System.out.println("Oder Summary");
+				System.out.println("Order Summary");
 				System.out.println("Customer Name :"+customerName);
 				System.out.println("Order id : "+orderId);
 				System.out.println("Restaurant id : "+restaurantid);

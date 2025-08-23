@@ -2,14 +2,14 @@ package java_core;
 
 public class variabledemo {
 
-	int a = 10; // instance var
+	int a = 10; // instance variable
 	void print() 
 	{
 		String message = "hello"; //local variable 
 		System.out.println(message);
 	}
 	
-	static String msg="hello hi "; // static var
+	static String msg="hello hi "; // static variable
 	
 	public static void main(String[] args) {
 		variabledemo obj =new variabledemo();
