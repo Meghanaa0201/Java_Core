@@ -1,4 +1,4 @@
-package java_core;
+package org.tnsif.sf.c2tc.basicsjava;
 
 public class hello_world {
 

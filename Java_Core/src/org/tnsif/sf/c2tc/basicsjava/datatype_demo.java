@@ -1,4 +1,4 @@
-package java_core;
+package org.tnsif.sf.c2tc.basicsjava;
 //online food delivery
 public class datatype_demo {
 
